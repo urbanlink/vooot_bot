@@ -1,2 +1,5 @@
 
 .DS_Store
+*.zip
+AWS Lambda/node_modules
+*.mov
